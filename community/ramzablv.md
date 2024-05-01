@@ -23,6 +23,5 @@
 
 ## Repositórios
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=282828&border_color=fffff&show_icons=true&icon_color=30A3DC&title_color=fabd2f&text_color=8ec07c)](https://github.com/ramzablv/Bootcamp-Santander-Dio)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=282828&border_color=fffff&show_icons=true&icon_color=30A3DC&title_color=fabd2f&text_color=8ec07c)](https://github.com/ramzablv/Estudos_Faculdade)
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ramzablv&repo=Bootcamp-Santander-Dio&bg_color=282828&border_color=fffff&show_icons=true&icon_color=30A3DC&title_color=fabd2f&text_color=8ec07c)](https://github.com/ramzablv/Bootcamp-Santander-Dio)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ramzablv&repo=Estudos_Faculdade&bg_color=282828&border_color=fffff&show_icons=true&icon_color=30A3DC&title_color=fabd2f&text_color=8ec07c)](https://github.com/ramzablv/Estudos_Faculdade)
